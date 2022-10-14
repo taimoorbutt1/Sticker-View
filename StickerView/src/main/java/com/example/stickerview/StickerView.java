@@ -445,4 +445,8 @@ public class StickerView extends AppCompatImageView {
         draw(canvas);
         return bitmap;
     }
+    public void clearBorders()
+    {
+        currentSticker = null;
+    }
 }
