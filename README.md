@@ -13,6 +13,6 @@
 
 ```gradle
     dependencies {
-	        implementation 'com.github.taimoorbutt1:Sticker-View:Tag'
+	        implementation 'com.github.taimoorbutt1:Sticker-View:1.0'
 	}
   ```
